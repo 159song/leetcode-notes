@@ -35,7 +35,7 @@
 
 ### [02. 基础数据结构篇（上）：链表、堆栈、队列（共 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/index.md)
 
-- [02.01 链表（第 01 ~ 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/index.md)
+- [02.01 链表（第 01 ~ 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/index.md)3/21
 - [02.02 堆栈与单调栈（第 05 ~ 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/index.md)
 - [02.03 深度优先搜索（第 08 ~ 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/index.md)
 - [02.04 队列与优先队列（第 11 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/index.md)
