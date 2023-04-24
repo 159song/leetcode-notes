@@ -29,7 +29,7 @@
 
 - [01.01 数据结构与算法简介、LeetCode 入门及攻略（第 01 ~ 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.01/index.md)
 - [01.02 数组基础（第 03 ~ 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.02/index.md)
-- [01.03 数组排序（第 05 ~ 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.03/index.md)没好好看
+- [01.03 数组排序（第 05 ~ 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.03/index.md)
 - [01.04 数组二分查找（第 09 ~ 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.04/index.md) 1011    33   153不会
 - [01.05 数组双指针、滑动窗口（第 12 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/index.md)01这部分问题不大
 
@@ -37,7 +37,7 @@
 
 - [02.01 链表（第 01 ~ 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/index.md)3/21
 - [02.02 堆栈与单调栈（第 05 ~ 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/index.md)
-- [02.03 深度优先搜索（第 08 ~ 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/index.md)很难，认真看
+- [02.03 深度优先搜索（第 08 ~ 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/index.md)
 - [02.04 队列与优先队列（第 11 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/index.md)
 - [02.05 广度优先搜索（第 13 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/index.md)3/28
 - [02.06 拓扑排序（第 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.06/index.md)
