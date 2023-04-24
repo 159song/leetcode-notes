@@ -31,7 +31,7 @@
 - [01.02 数组基础（第 03 ~ 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.02/index.md)
 - [01.03 数组排序（第 05 ~ 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.03/index.md)
 - [01.04 数组二分查找（第 09 ~ 11 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.04/index.md) 1011    33   153不会
-- [01.05 数组双指针、滑动窗口（第 12 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/index.md)01这部分问题不大
+- [01.05 数组双指针、滑动窗口（第 12 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch01/01.05/index.md)这部分问题不大
 
 ### [02. 基础数据结构篇（上）：链表、堆栈、队列（共 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/index.md)
 
