@@ -38,7 +38,7 @@
 - [02.01 链表（第 01 ~ 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.01/index.md)147 148不会
 - [02.02 堆栈与单调栈（第 05 ~ 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/index.md)155 394 496
 - [02.03 深度优先搜索（第 08 ~ 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/index.md)417
-- [02.04 队列与优先队列（第 11 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/index.md)
+- [02.04 队列与优先队列（第 11 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/index.md)347
 - [02.05 广度优先搜索（第 13 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/index.md)
 - [02.06 拓扑排序（第 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.06/index.md)
 
