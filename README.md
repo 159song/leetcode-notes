@@ -39,7 +39,7 @@
 - [02.02 堆栈与单调栈（第 05 ~ 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.02/index.md)155 394 496
 - [02.03 深度优先搜索（第 08 ~ 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.03/index.md)417
 - [02.04 队列与优先队列（第 11 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.04/index.md)347
-- [02.05 广度优先搜索（第 13 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/index.md)752
+- [02.05 广度优先搜索（第 13 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.05/index.md)463 752
 - [02.06 拓扑排序（第 15 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch02/02.06/index.md)
 
 ### [03. 基础数据结构篇（下）：哈希表、字符串、二叉树、并查集（共 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/index.md)
