@@ -45,7 +45,7 @@
 ### [03. 基础数据结构篇（下）：哈希表、字符串、二叉树、并查集（共 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/index.md)
 
 - [03.01 哈希表（第 01 ~ 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/03.01/index.md)36
-- [03.02 字符串与字符串匹配（ 第 03 ~ 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/03.02/index.md)看到BF算法
+- [03.02 字符串与字符串匹配（ 第 03 ~ 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/03.02/index.md)459
 - [03.03 二叉树（第 08 ~ 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/03.03/index.md)
 - [03.04 二叉搜索树（第 11 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/03.04/index.md)
 - [03.05 并查集（第 13 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/03.05/index.md)
