@@ -47,7 +47,7 @@
 - [03.01 哈希表（第 01 ~ 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/03.01/index.md)36
 - [03.02 字符串与字符串匹配（ 第 03 ~ 07 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/03.02/index.md)459 686 2156 1023 676
 - [03.03 二叉树（第 08 ~ 10 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/03.03/index.md)105 106 889
-- [03.04 二叉搜索树（第 11 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/03.04/index.md)450
+- [03.04 二叉搜索树（第 11 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/03.04/index.md)450 108
 - [03.05 并查集（第 13 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch03/03.05/index.md)
 
 ### [04. 基础算法篇：枚举、递归、分治、回溯、贪心、位运算（共 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/index.md)
