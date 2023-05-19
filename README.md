@@ -54,7 +54,7 @@
 
 - [04.01 枚举算法（第 01 ~ 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.01/index.md)204
 - [04.02 递归算法与分治算法（第 03 ~ 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.02/index.md)92 779 59分治没做
-- [04.03 回溯算法（第 07 ~ 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/index.md)46 47
+- [04.03 回溯算法（第 07 ~ 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.03/index.md)46 47 22
 - [04.04 贪心算法（第 10 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.04/index.md)
 - [04.05 位运算（第 13 ~ 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch04/04.05/index.md)
 
