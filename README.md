@@ -61,7 +61,7 @@
 ### [05. 动态规划篇（共 14 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/index.md)
 
 - [05.01 动态规划基础、记忆化搜索（ 第 01 ~ 02 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.01/index.md)
-- [05.02 线性动态规划（第 03 ~ 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.02/index.md)53 300 213 873 1143 72
+- [05.02 线性动态规划（第 03 ~ 06 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.02/index.md)53 300 213 873 1143 72 221
 - [05.03 背包问题（第 07 ~ 09 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.03/index.md)
 - [05.04 区间 DP 和 树形 DP（第 10 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch05/05.04/index.md)
 - 05.05 其他 DP 问题（第 13 ~ 14 天）
