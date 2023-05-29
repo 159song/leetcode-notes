@@ -68,7 +68,7 @@
 
 ### [06. 面试篇（上）（共 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/index.md)
 
-- [06.01 第 001 ~ 012 题（第 01 ~ 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/06.01/index.md)
+- [06.01 第 001 ~ 012 题（第 01 ~ 04 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/06.01/index.md)54
 - [06.02 第 013 ~ 025 题（第 05 ~ 08 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/06.02/index.md)
 - [06.03 第 026 ~ 037 题（第 09 ~ 12 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/06.03/index.md)
 - [06.04 第 038 ~ 050 题（第 13 ~ 16 天）](https://github.com/datawhalechina/leetcode-notes/blob/main/docs/ch06/06.04/index.md)
